@@ -4,9 +4,9 @@ Meu nome é Raike, um entusiasta da tecnologia que transforma minha vontade em c
 
 ## 🎓 Minha Jornada Acadêmica
 
-- Atualmente estou navegando pelo universo da Ciência da Computação (Bacharelado em andamento).
-- Já conquistei o mundo da Informática e Desenvolvimento de Sistemas (Tecnólogo).
-- Tenho um superpoder secreto em Design Gráfico (Curso Técnico).
+- Atualmente estou cursando o Bacharelado em Ciência da Computação, explorando novas fronteiras do conhecimento.
+- Sou Tecnólogo em Informática e Desenvolvimento de Sistemas, uma conquista que me proporcionou uma base sólida para minha carreira.
+- Tenho um superpoder secreto em Design Gráfico adquirido em um Curso Técnico, o que me permite adicionar um toque de criatividade ao meu trabalho.
 
 ## 💼 Minha Aventura Profissional
 
@@ -18,7 +18,7 @@ Meu nome é Raike, um entusiasta da tecnologia que transforma minha vontade em c
 - Adoro a emoção dos jogos competitivos.
 - Estou sempre curioso sobre as últimas tecnologias e hardwares.
 
-## 📫 Vamos Conectar!
+## 📫 Vamos nos Conectar!
 
 - Email: Raike.mb@gmail.com
 - Twitter: @raikeb
