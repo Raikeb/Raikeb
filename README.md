@@ -6,7 +6,7 @@ Meu nome é Raike, um entusiasta da tecnologia que transforma minha vontade em c
 
 - Atualmente estou cursando o Bacharelado em Ciência da Computação, explorando novas fronteiras do conhecimento.
 - Sou Tecnólogo em Informática e Desenvolvimento de Sistemas, uma conquista que me proporcionou uma base sólida para minha carreira.
-- Completei um Curso Técnico em Design Gráfico, o que me permite adicionar um toque de criatividade ao meu trabalho.
+- Como técnico em Design Gráfico, consigo adicionar também um toque de criatividade ao meu trabalho.
 
 ## 💼 Minha Aventura Profissional
 
