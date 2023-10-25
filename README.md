@@ -12,7 +12,7 @@ Meu nome é Raike, um entusiasta da tecnologia que transforma minha vontade em c
 
 - Além de ser um desenvolvedor, também tenho uma paixão pelos eSports. Joguei Counter-Strike profissionalmente no passado e, hoje, continuo jogando como hobby. Essa experiência me ensinou muito sobre trabalho em equipe e estratégia.
 - Também já trabalhei com montagem e manutenção prestando assistência técnica. Lá, cada problema era um quebra-cabeça esperando para ser resolvido.
-- Tive a chance de trabalhar diretamente para a Secretaria de Estado da Fazenda, onde pude usar minhas habilidades técnicas para fazer a diferença na vida das pessoas.
+- Tive a chance de trabalhar diretamente para a Secretaria de Estado da Fazenda, onde pude usar minhas habilidades técnicas como desenvolvedor Java para trabalhar com o back-end de APIs, dentre outras tarefas.
 - Hoje, estou explorando o universo Java na Extreme Digital Solutions. Estou sempre aprendendo algo novo e contribuindo para projetos inovadores.
 
 ## 🌱 Meus Interesses
