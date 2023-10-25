@@ -1,4 +1,4 @@
-# Olá, exploradores do código! 👋🚀
+# Olá, exploradores do código! 👋🏻🚀
 
 Meu nome é Raike, um entusiasta da tecnologia que transforma minha vontade em código Java. Atualmente, estou aprimorando o mundo digital na Extreme Digital Solutions, onde tenho a honra de colaborar com a Secretaria de Estado da Fazenda. Acredito firmemente que a aprendizagem é um processo contínuo e estou sempre buscando expandir meu conjunto de habilidades.
 
