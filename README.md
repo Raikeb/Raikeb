@@ -4,7 +4,7 @@ Meu nome é Raike, um entusiasta da tecnologia que transforma minha vontade em c
 
 ## 🎓 Minha Jornada Acadêmica
 
-- Atualmente estou cursando o Bacharelado em Ciência da Computação, explorando novas fronteiras do conhecimento.
+- Bacharel em Ciência da Computação, explorando novas fronteiras do conhecimento.
 - Sou Tecnólogo em Informática e Desenvolvimento de Sistemas, uma conquista que me proporcionou uma base sólida para minha carreira.
 - Como técnico em Design Gráfico, consigo adicionar também um toque de criatividade ao meu trabalho.
 
