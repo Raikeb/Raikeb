@@ -24,5 +24,5 @@ Meu nome é Raike, um entusiasta da tecnologia que transforma minha vontade em c
 ## 📫 Vamos nos Conectar!
 
 - Email: Raike.mb@gmail.com
-- LinkedIn: raikeb
+- LinkedIn: [raikeb]([url](https://www.linkedin.com/in/raikeb/))
 
